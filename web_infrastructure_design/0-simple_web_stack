@@ -1,3 +1,5 @@
+https://github.com/Diego-Bonora/holbertonschool-system_engineering-devops/blob/master/web_infrastructure_design/images/simple_web_stack.png
+
 A server its generally located in a data center
 A server can be eaither physical or virtual, the physical beeing all the hardware, and the virtual a software based representation of a physical server
 All the servers runs an OS, almost always beeing linux
