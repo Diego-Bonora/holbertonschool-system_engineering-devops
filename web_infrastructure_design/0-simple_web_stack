@@ -1,0 +1,11 @@
+A server its generally located in a data center
+A server can be eaither physical or virtual, the physical beeing all the hardware, and the virtual a software based representation of a physical server
+All the servers runs an OS, almost always beeing linux
+The main job of a web server is to display website content through storing, processing and delivering webpages to users
+The application server collaborates with the web server to return a dynamic response to a user request
+The data base role is to store all the data, typically managed by a database management system
+The DNS role its to transform from the domain name to the IP address
+This is a single point failure because it doesnt have a secondary server, if the server stops working, the entire system stops too
+When new code its deployed, the website will be temporarily down because it needs to restart the web server
+beeing only 1 server, it cannot expand and it'll be a point that the server will not be able to handle traffic
+TCP/IP its used to interconnect network devices on the interned
