@@ -1,0 +1,3 @@
+https://github.com/Diego-Bonora/holbertonschool-system_engineering-devops/blob/master/web_infrastructure_design/images/distributed_web_infrastructure.png
+
+active-active distributes the load across all nodes in order to prevent overload
